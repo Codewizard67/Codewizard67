@@ -31,7 +31,7 @@
   <a href="mailto:brianngeorgee@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.paypal.me/brianngeorgee@gmail.com" target="_blank">
+  <a href="https://www.paypal.me/Brian Kibiro" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
 </div>
