@@ -16,7 +16,7 @@
   <a href="https://x.com/_Techie___?t=1_CpC0BXNVqKERe_7Z8CvQ&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="@BriannGeorge" target="_blank">
+  <a href="https://t.me/BriannGeorge" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://signal.me/#eu/0ccNL3OaeH--MCqYYiynZD4E0A7e1EQl1jSynduZLnNaDJeNbidPf6urJTcfPhLR" target="_blank">
